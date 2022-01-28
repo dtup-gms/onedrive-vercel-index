@@ -1,6 +1,6 @@
 {
   "clientId": "3965c6c7-5ee0-404f-80c3-e9f092cb1110",
-  "obfuscatedClientSecret": "4jt7Q~Sk44t-NbEkibPzgjIgIbin6tjCj~kpj",
+  "obfuscatedClientSecret": "U2FsdGVkX1+PcGuvbga5Ws9KqF2Dn3nTjnj1Y2rpGx7auRgXgJE/bfEukaWVsx4mphvVfZL39TA72ZT7bmiwYw==",
   "redirectUri": "http://localhost:3000",
   "authApi": "https://login.microsoftonline.com/common/oauth2/v2.0/token",
   "driveApi": "https://graph.microsoft.com/v1.0/me/drive",
